@@ -1,1 +1,1 @@
-# sprint3-isolated-
+this is a isolated gui for the csci4400 mentcare system. This program will work if required libraries are install when importing to your IDE. Your IDE needs javafx and mysql installed in order to recognize some of the imported libraries. It also needs to communicate to a proper database to get the nessary data from the sql command queries.
